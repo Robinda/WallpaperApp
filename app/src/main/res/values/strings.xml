@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="wallpaper_id">Wallpaper ID</string>
+    <string name="set_as_wallpaper">Définir comme fond d\'écran</string>
+    <string name="btn_previous_page">Page Précédente</string>
+    <string name="btn_next_page">Page Suivante</string>
+    <string name="category_see_more">Voir +</string>
+    <string name="category">Catégorie</string>
+</resources>
